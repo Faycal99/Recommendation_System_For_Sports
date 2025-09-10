@@ -1,2 +1,11 @@
-# Recommendation_System_For_Sports
-This model is created with the use of the dataset gotten from Kaggle https://www.kaggle.com/code/hossamfarhoud/workout-diet-recommendation-system-content-b and it uses content based recommendation filtering and collaboratif filtering , it takes as input age height .....etc and it results the recommendation based on this hybrid model
+# Recommendation System for Sports
+
+This project implements a hybrid recommendation system for workouts and diets. It combines:
+
+Content-Based Filtering – recommends items based on user attributes (e.g., age, height, weight, fitness goals).
+
+Collaborative Filtering – recommends items based on similarities between users and their preferences.
+
+## Dataset
+
+The dataset is sourced from Kaggle: Workout & Diet Recommendation System
